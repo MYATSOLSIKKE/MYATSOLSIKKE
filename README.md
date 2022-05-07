@@ -1,9 +1,9 @@
 ### Bonjour ladies and gentlemen 👋
 
 
-**MYATSOLSIKKE/MYATSOLSIKKE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **MYATSOLSIKKE/MYATSOLSIKKE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 
 - 🌱 I’m currently learning everything I can absorb
