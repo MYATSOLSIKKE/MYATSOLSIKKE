@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with any human alive
 - ✨ Dumb,kinda cute and introverted programmer
 - 📫 How to reach me: myatsusan@uit.edu.mm
-- 😄 Pronouns:her/them
+- 😄 Pronouns: she/them
 - ⚡ Fun fact: I still can't do french kiss with tongue
 
