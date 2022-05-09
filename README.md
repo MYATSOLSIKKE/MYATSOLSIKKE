@@ -21,8 +21,8 @@
 ### :woman_technologist: About Me :
 I am learning and coding to become a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Myanmar.
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MSS-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/susan-myat-640894236)
-
+<!-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MSS-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/susan-myat-640894236) -->
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zuWdi)
 ---
 
 ### :hammer_and_wrench: Languages and Tools I'm Exploring:
