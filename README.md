@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center"><img src="https://komarev.com/ghpvc/?username=MYATSOLSIKKE&style=flat-square&color=blue" alt=""/>
-  <a href="https://www.linkedin.com/in/susan-myat-640894236">
+  <a href="linkedin.com/in/myat-susan-640894236">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://youtube.com/c/meowcash">
